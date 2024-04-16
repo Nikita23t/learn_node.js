@@ -1,0 +1,15 @@
+{
+  "name": "pierr",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "start": "node indes.js",
+    "start1": "node geomProgressionCalc.js",
+    "start2": "node anyQuestion.js",
+    "start3": "node transposedMatrix.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nikita",
+  "license": "ISC"
+}
